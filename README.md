@@ -16,7 +16,7 @@
 
 
 - 🌱 I’m currently learning **NLP, LLMs**
-- 🤭 Hugging Face: [huggingface.co/trinhhuy](https://huggingface.co/trinhhuy)
+- 🤭 Explore my demos and Hugging Face models: [huggingface.co/trinhhuy](https://huggingface.co/trinhhuy)
 - 📫 You can contact me at:
 
 <div align="left">
